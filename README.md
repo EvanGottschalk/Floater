@@ -69,6 +69,12 @@ After a brief period of despair, I had a breakthrough: if your character is alre
 
 And thus, `Floater` was born. While I have not worked on it in a while, it's one of my favorite Python projects, and I look forward to working on it more in the future.
 
+<br />
+<p align="center">
+  <a href="https://github.com/EvanGottschalk/Floater">
+    <img src="screenshots/screenshot_level6.PNG" alt="screenshot_level6" width="550">
+  </a>
+</p>
 
 ### Built With
 
