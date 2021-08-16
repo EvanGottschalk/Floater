@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/EvanGottschalk/Floater">
-    <img src="logo.png" alt="Logo" width="151" height="80">
+    <img src="images/logo.png" alt="Logo" width="151" height="80">
   </a>
 
   <h3 align="center">Floater</h3>
