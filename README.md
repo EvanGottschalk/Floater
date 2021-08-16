@@ -72,7 +72,7 @@ And thus, `Floater` was born. While I have not worked on it in a while, it's one
 <br />
 <p align="center">
   <a href="https://github.com/EvanGottschalk/Floater">
-    <img src="screenshots/screenshot_level6.png" alt="screenshot_level6" width="450">
+    <img src="screenshots/screenshot_level6.png" alt="screenshot_level6" width="400">
   </a>
 </p>
 
